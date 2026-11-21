@@ -956,7 +956,7 @@ a {
     position: relative;
     width: 100%;
     max-width: 768px;
-    aspect-ratio: 768 / 582;
+    aspect-ratio: 768 / 740;
     border-radius: var(--radius);
     overflow: hidden;
     box-shadow: 0 20px 50px rgba(20, 50, 100, .18);
